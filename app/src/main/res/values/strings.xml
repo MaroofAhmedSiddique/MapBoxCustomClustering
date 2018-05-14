@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MapBox Custom Clustering Maroof</string>
+    <string name="mapbox_access_token">pk.eyJ1IjoibWFyb29mIiwiYSI6ImNqZ3JpangzYTAzc2QycW9mMmVoNHRkM2sifQ.PG8ABR_MCp-edxb8AO0UzQ</string>
+    <string name="some_req_permissions">Some Permissions are required for this app</string>
+    <string name="open_settings">You need to give some mandatory permissions to continue. Do you want to go to app settings?</string>
+    <string name="okay">Okay</string>
+    <string name="cancel">Cancel</string>
+    <string name="yes">YES</string>
+</resources>
